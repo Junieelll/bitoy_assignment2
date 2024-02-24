@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitoy_assignment2", "bitoy_assignment2\bitoy_assignment2.csproj", "{ECF5F89F-E7C8-4485-B609-3F2B8202CA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF5F89F-E7C8-4485-B609-3F2B8202CA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF5F89F-E7C8-4485-B609-3F2B8202CA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF5F89F-E7C8-4485-B609-3F2B8202CA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF5F89F-E7C8-4485-B609-3F2B8202CA77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FB0CAC2-56A2-4F4D-AF5C-CBC85A1B2EA4}
+	EndGlobalSection
+EndGlobal
